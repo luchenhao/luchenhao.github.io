@@ -11,7 +11,7 @@ footerText: 'Copyright © 2019 '
 domainUrl: 'https://luchenhao.github.io/'
 # 路径配置，静态资源404一般是这里不对
 # 直接域名访问设置为'',有如果是user.github.io/blog/访问的话设置为'/blog'
-baseUrl: '/blog'
+baseUrl: ''
 
 # 菜单
 menu:
