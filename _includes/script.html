@@ -3,7 +3,7 @@
 {% for js in pageJS %}
 <script type="text/javascript" src="{{site.baseUrl}}/static/js/{{ js }}?t={{ site.time | date: "%Y%m%d%H%M%S" }}"></script>
 {% endfor %}
-<!-- MTA腾讯移动分析 -->
+<!-- MTA腾讯移动分析 
 <script>
   var _mtac = {"performanceMonitor":1,"senseQuery":1};
   (function() {
@@ -16,7 +16,8 @@
     s.parentNode.insertBefore(mta, s);
   })();
 </script>
-<!-- 百度的自动推送 -->
+-->
+<!-- 百度的自动推送 
 <script>
   (function(){
     var bp = document.createElement('script');
@@ -31,3 +32,4 @@
     s.parentNode.insertBefore(bp, s);
   })();
 </script>
+-->
