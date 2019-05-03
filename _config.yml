@@ -5,7 +5,7 @@ title: 这是一块黑板报
 description: A Blog
 keywords: Blog
 author: kenny
-footerText: 'Copyright © 2019 '
+footerText: 'Copyright © '
 
 # 域名配置,生成sitemap会用到，友链也会用到
 domainUrl: 'https://luchenhao.github.io/'
