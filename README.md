@@ -2,7 +2,7 @@
 
 一款 jekyll 主题（[GitHub 地址](https://github.com/TMaize/tmaize-blog)），简洁纯净，支持自适应，未引入任何框架，秒开页面
 
-下面有具体的样式截图，或者你可以到[TMaize Blog](http://blog.tmaize.net/)查看运行效果
+下面有具体的样式截图，或者你可以到[Blog](https://luchenhao.github.io)查看运行效果
 
 # 注意
 
